@@ -8,10 +8,11 @@
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview",
-    "homepage": "https://your-username.github.io/child-growth-dashboard",
+    "homepage": "https://clear-thinkers.github.io/child-growth-dashboard",
     "deploy": "gh-pages -d dist"
   },
   "dependencies": {
+    "papaparse": "^5.5.2",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
     "recharts": "^2.15.1"
