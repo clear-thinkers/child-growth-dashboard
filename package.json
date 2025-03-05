@@ -10,8 +10,7 @@
     "lint": "eslint .",
     "preview": "vite preview",
     "homepage": "https://clear-thinkers.github.io/child-growth-dashboard",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist"
+    "deploy": "gh-pages -d build"
   },
   "dependencies": {
     "lucide-react": "^0.477.0",
